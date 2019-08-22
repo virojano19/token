@@ -13,7 +13,7 @@ pkg install git
 pip2 install thrift==0.9.3
 pip2 install rsa
 pip2 install requests
-```
+git clone https://github.com/virojano19/token
 
 - Running
 ```
